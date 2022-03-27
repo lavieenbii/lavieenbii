@@ -6,7 +6,5 @@
 <br></br>
 - ✨ Writting code to solve problem ✨
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavieenbii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![bilqis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavieenbii)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavieenbii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
