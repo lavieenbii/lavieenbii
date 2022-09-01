@@ -1,6 +1,5 @@
 ### Hi there, I'm Bilqis 👋
 
-- 🔭 I’m currently an freshman student at Gadjah Mada University
 - 🌱 I’m currently learning React, Next js, tailwind, and open cv
 - ⚡ I'm interested in software development and image procession
 <br></br>
