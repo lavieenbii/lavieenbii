@@ -1,7 +1,6 @@
 ### Hi there, I'm Bilqis 👋
 
-- 🌱 I’m currently learning React, Next js, tailwind, and open cv
-- ⚡ I'm interested in software development and image procession
+- ⚡ I'm interested in FPGA programming and Deep Learning, an a little bit of control system
 <br></br>
 
 
